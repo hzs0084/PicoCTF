@@ -1,0 +1,9 @@
+Cat the checksum.txt 
+
+Take the sha256sum of the entire directory using this command and then grep the characters from the checksum file
+
+"sha256sum files/* | grep "fba"
+
+After finding a match 
+
+./decrypth.sh files/filenamefound
