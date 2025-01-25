@@ -1,0 +1,7 @@
+Use the command 
+
+zbarimg flag.png
+
+and it will give the result
+
+QR-Code:picoCTF{p33k_@_b00_19eccd10}
