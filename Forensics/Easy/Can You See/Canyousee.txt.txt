@@ -1,0 +1,6 @@
+run strings | head
+
+run exiftool
+
+get base63 and decode it
+

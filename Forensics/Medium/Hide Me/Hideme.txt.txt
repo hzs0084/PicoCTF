@@ -1,0 +1,7 @@
+hidden zip inside
+
+unzip the png
+
+use strings as a hint
+
+go to directory and find flag
