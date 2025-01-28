@@ -1,0 +1,2 @@
+Use strings and then grep -i PICOCTF
+the flag is in the tail

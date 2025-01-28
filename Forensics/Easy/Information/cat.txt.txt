@@ -1,0 +1,3 @@
+Use exiftool to get the metadata
+
+find the base64 encoding and decode it
