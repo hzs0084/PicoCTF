@@ -1,0 +1,5 @@
+inside the repo
+
+use git log to check the logs
+
+user git checkout to switch to the branch when the flag was made

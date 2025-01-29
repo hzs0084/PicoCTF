@@ -1,0 +1,3 @@
+Thow the upx packer at it
+use strings to grep the flag
+convert from hex to text

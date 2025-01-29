@@ -1,0 +1,6 @@
+Intercept the request 
+
+Change the request type from GET to HEAD
+
+because 
+	The HEAD method asks for a response identical to a GET request, but without a response body.
