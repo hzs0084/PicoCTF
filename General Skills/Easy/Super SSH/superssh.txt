@@ -1,0 +1,1 @@
+ssh user@ip-address -p portnumber and don't overthink it
