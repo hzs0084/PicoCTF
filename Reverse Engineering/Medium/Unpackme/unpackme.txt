@@ -1,0 +1,4 @@
+Add a line called print plain in the script
+
+that will give you the flag
+

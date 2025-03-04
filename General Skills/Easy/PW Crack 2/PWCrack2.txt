@@ -1,0 +1,1 @@
+Look at the source code, try to take the characters and then open up a python shell, to type in the ascii characters and get the password

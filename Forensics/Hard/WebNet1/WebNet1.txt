@@ -1,0 +1,5 @@
+This one was similar but I did something different, there's a value called RSA Keys
+
+I selected that under protocols, picked the key to upload and then searched for http
+
+then you will see GET requests, if you look at the vulcan GET request then you will see the flag

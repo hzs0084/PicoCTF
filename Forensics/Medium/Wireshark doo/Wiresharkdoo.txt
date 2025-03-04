@@ -1,0 +1,17 @@
+When you open the Wireshark pcap
+there's a ton of HTTP packets so filter it with http
+after that go through those packers, you will notice a GET packet 
+This GET packet seems out of place so follow the stream
+You will see something like this Gur synt vf cvpbPGS{c33xno00_1_f33_h_qrnqorrs}
+
+Since this looks like the picoCTF format and we have worked on this in one of the encryption challenges, this is substitution cipher
+
+More like ROT-13 of it
+
+ROT-13 means that the characters are exactly 13 letters apart
+
+https://dencode.com/en/
+
+this website is a great resource so i'm saving it here but you shuold get the flag now
+
+

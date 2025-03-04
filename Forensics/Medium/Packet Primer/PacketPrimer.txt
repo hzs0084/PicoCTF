@@ -1,0 +1,7 @@
+Open Wireshark
+
+There's like nine packets
+
+Go through them and remove the spaces and you will have your flag then
+
+

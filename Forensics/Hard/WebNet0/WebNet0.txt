@@ -1,0 +1,15 @@
+This is interesting, i personally still don't understand how this works or why wireshark fails decrypting this
+an alternatinve is ssldump so that might me worth looking into
+
+in wireshark if you go to edit>preferences>in the rsa area
+
+keep ip addr as any
+port 443
+protocol http
+browse to the key file
+
+then filter the http traffic 
+
+follow the stream
+
+the flag is in the request header
