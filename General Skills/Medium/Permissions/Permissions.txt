@@ -1,0 +1,7 @@
+sudo -l
+
+will tell you what commands you have sudo access with
+
+then you can use sudo vi to look inside directory of root and then look at the flag
+
+
