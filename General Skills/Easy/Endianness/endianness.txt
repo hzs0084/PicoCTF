@@ -1,0 +1,4 @@
+I did this very different I guess, I made a script that would do the hard work and replace it with the word generated
+
+Then got the flag
+
