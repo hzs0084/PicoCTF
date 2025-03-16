@@ -1,0 +1,5 @@
+Okay so don't be an idiot and start the instance, the flag gets pulled from the metadata.json
+
+play the guessing game and guess it using binary search so half of everything
+
+
