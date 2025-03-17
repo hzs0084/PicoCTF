@@ -1,0 +1,10 @@
+eval("WIN".lower()+'()')# 
+
+this does a recursive call to eval which then runs our eval against the code
+another way would be to calling it backwards 
+
+eval(')(niw'[::-1])
+
+another way can be to just print the flag directly from the server
+
+print(open("flag.txt", "r").read())

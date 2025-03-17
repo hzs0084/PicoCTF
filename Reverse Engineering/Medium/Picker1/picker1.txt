@@ -1,0 +1,5 @@
+Eval is the red flag as it gives RCE capabilites as you can execute code normally by calling functions
+
+call the win function and then it will give you hex then convert it to text
+
+picoCTF{4_d14m0nd_1n_7h3_r0ugh_b523b2a1}
