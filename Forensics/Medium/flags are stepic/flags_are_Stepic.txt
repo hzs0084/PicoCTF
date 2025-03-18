@@ -1,0 +1,13 @@
+So i hate myself for not getting this during the picoCTF
+
+stepic is the clue word here and should have looked it up what it meant
+
+I took the assumption that it would be just another steg challenge and went down a crazy route
+
+but using stepic you can get to the flag easily
+
+stepic -d -i upz.png -o flag.txt
+
+-decode -input -output
+
+picoCTF{fl4g_h45_fl4g16aa94cf}
