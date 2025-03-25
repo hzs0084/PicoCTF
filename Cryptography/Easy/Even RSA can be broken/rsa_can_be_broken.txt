@@ -1,0 +1,13 @@
+mining your p and q's research paper
+
+so this is where you start you look at the numbers
+
+notice that the p is an even number
+
+that means that it can be divisible by 2 another thing to do is watch out for the greatest command divisor 
+
+now that you know one of the p and q, we can divide it by q
+
+use the python script and then take the cipher text and use python to decrypt it
+
+then you can use the script but after you take the number use xxd with the flags -r and -p to get teh flag
